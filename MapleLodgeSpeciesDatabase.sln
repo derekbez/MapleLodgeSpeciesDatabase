@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapleLodgeSpeciesDatabase", "MapleLodgeSpeciesDatabase\MapleLodgeSpeciesDatabase.csproj", "{B0F4CC3E-D11C-44FE-A143-FB8A4467784A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapleLodgeSpeciesDatabase.Tests", "MapleLodgeSpeciesDatabase.Tests\MapleLodgeSpeciesDatabase.Tests.csproj", "{1E8FA543-618D-48EB-836F-B753A6F458D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F4CC3E-D11C-44FE-A143-FB8A4467784A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F4CC3E-D11C-44FE-A143-FB8A4467784A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F4CC3E-D11C-44FE-A143-FB8A4467784A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F4CC3E-D11C-44FE-A143-FB8A4467784A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8FA543-618D-48EB-836F-B753A6F458D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8FA543-618D-48EB-836F-B753A6F458D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8FA543-618D-48EB-836F-B753A6F458D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8FA543-618D-48EB-836F-B753A6F458D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A11E73-6038-4F7D-8968-BF4E52F67DAC}
+	EndGlobalSection
+EndGlobal
